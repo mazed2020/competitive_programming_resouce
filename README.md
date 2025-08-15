@@ -12,3 +12,4 @@ Some Resources:
 
 ### digit dp problem list:
  1. count number -> https://cses.fi/problemset/task/2220/
+ 2. digt count -> https://leetcode.com/problems/number-of-digit-one/description/
